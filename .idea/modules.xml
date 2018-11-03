@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jdk11Tuto.iml" filepath="$PROJECT_DIR$/Jdk11Tuto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carsmaker.businesslogic/carsmaker.businesslogic.iml" filepath="$PROJECT_DIR$/carsmaker.businesslogic/carsmaker.businesslogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carsmaker.entities/carsmaker.entities.iml" filepath="$PROJECT_DIR$/carsmaker.entities/carsmaker.entities.iml" />
+    </modules>
+  </component>
+</project>
